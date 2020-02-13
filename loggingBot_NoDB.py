@@ -108,4 +108,4 @@ async def on_message_delete(message):
 	f3.close()
 
 #本番環境
-client.run("Your_TOKEN")
+client.run("DISCORD_CLIENT_KEY")
